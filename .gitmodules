@@ -1,0 +1,21 @@
+[submodule "gramarye"]
+	path = gramarye
+	url = https://github.com/noahspoling/gramarye.git
+[submodule "gramarye-component-functions"]
+	path = gramarye-component-functions
+	url = https://github.com/noahspoling/gramarye-component-functions.git
+[submodule "gramarye-components"]
+	path = gramarye-components
+	url = https://github.com/noahspoling/gramarye-components.git
+[submodule "gramarye-raylib-implementation"]
+	path = gramarye-raylib-implementation
+	url = https://github.com/noahspoling/gramarye-raylib-implementation.git
+[submodule "gramarye-query-engine"]
+	path = gramarye-query-engine
+	url = https://github.com/noahspoling/gramarye-query-engine.git
+[submodule "gramarye-ecs"]
+	path = gramarye-ecs
+	url = https://github.com/noahspoling/gramarye-ecs.git
+[submodule "gramarye-libcore"]
+	path = gramarye-libcore
+	url = https://github.com/noahspoling/gramarye-libcore.git

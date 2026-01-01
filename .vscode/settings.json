@@ -1,0 +1,25 @@
+{
+  "files.exclude": {
+    "**/_deps/": true,
+    "**/.deps/": true,
+    "**/CMakeFiles/": true,
+    "**/CMakeCache.txt": true,
+    "**/cmake_install.cmake": true,
+    "**/compile_commands.json": true
+  },
+  "files.watcherExclude": {
+    "**/_deps/**": true,
+    "**/.deps/**": true,
+    "**/bin/**": true,
+    "**/build/**": true,
+    "**/build-web/**": true
+  },
+  "search.exclude": {
+    "**/_deps/**": true,
+    "**/.deps/**": true,
+    "**/bin/**": true,
+    "**/build/**": true,
+    "**/build-web/**": true
+  }
+}
+

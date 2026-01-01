@@ -22,6 +22,9 @@
 [submodule "gramarye-renderer-interface"]
 	path = gramarye-renderer-interface
 	url = https://github.com/noahspoling/gramarye-renderer-interface.git
-[submodule "gramarye-chunk-renderer"]
-	path = gramarye-chunk-renderer
-	url = https://github.com/noahspoling/gramarye-chunk-renderer.git
+[submodule "gramarye-chunk-controller"]
+	path = gramarye-chunk-controller
+	url = https://github.com/noahspoling/gramarye-chunk-controller.git
+[submodule "gramarye-event-bus"]
+	path = gramarye-event-bus
+	url = https://github.com/noahspoling/gramarye-event-bus.git

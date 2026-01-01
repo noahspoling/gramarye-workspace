@@ -19,3 +19,9 @@
 [submodule "gramarye-libcore"]
 	path = gramarye-libcore
 	url = https://github.com/noahspoling/gramarye-libcore.git
+[submodule "gramarye-renderer-interface"]
+	path = gramarye-renderer-interface
+	url = https://github.com/noahspoling/gramarye-renderer-interface.git
+[submodule "gramarye-chunk-renderer"]
+	path = gramarye-chunk-renderer
+	url = https://github.com/noahspoling/gramarye-chunk-renderer.git

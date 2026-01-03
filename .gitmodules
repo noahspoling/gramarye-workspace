@@ -28,3 +28,12 @@
 [submodule "gramarye-event-bus"]
 	path = gramarye-event-bus
 	url = https://github.com/noahspoling/gramarye-event-bus.git
+[submodule "gramarye-clay-ui"]
+	path = gramarye-clay-ui
+	url = https://github.com/noahspoling/gramarye-clay-ui.git
+[submodule "gramarye-ui-interface"]
+	path = gramarye-ui-interface
+	url = https://github.com/noahspoling/gramarye-ui-interface.git
+[submodule "gramarye-ui-raylib-implementation"]
+	path = gramarye-ui-raylib-implementation
+	url = https://github.com/noahspoling/gramarye-ui-raylib-implementation.git
